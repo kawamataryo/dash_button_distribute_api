@@ -1,5 +1,4 @@
-import 'jest';
-import { helloWorld } from "../src";
+import { helloWorld } from "../src/index";
 import * as functions from 'firebase-functions-test';
 functions();
 
